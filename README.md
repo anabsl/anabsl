@@ -4,8 +4,9 @@
 
 ## Sobre mim 👩🏻
 Sou uma apaixonada por soluções inovadoras na área de desenvolvimento Front-End.
-- 📚 Estou no 4º período da faculdade de ADS.
-- 💼 Estou em busca de oportunidades de trabalho na área de desenvolvimento web.
+- 📚 Acabo de me graduar no curso tecnólogo de Análise e Desenvolvimento de Sistemas.
+- 🖥️ Fui Analista Funcional de SAP SD (Sales and Distribution) por 2 anos e meio.
+- 💼 Estou em busca de oportunidades de trabalho na área de desenvolvimento ou SAP.
 - ⚡ Fun fact: Fã da banda sul-coreana ITZY 👑
 - 📫 Você pode me encontrar em:
   
